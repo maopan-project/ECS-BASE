@@ -1,0 +1,106 @@
+{
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\src.meta": {
+    "time": 1694608471613.4917
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\src": {
+    "time": 1694536140674.0498,
+    "uuid": "52dc8595-bde7-4067-9127-0eab38b1bdad",
+    "missing": false
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\scene.meta": {
+    "time": 1694608471613.4917
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\scene": {
+    "time": 1694523329229.8926,
+    "uuid": "fc6cd875-dd91-4751-9f1e-37906b98319a",
+    "missing": false
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\texture.meta": {
+    "time": 1694608471613.4917
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\texture": {
+    "time": 1694567711297,
+    "uuid": "2aa7fd67-9d18-4e9d-aa8f-bc943538d000",
+    "missing": false
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\GameStart.ts.meta": {
+    "time": 1694447765243.9072
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\GameStart.ts": {
+    "time": 1694602537112.6333,
+    "uuid": "a8a18680-307b-488d-bab6-3074c415100d",
+    "missing": false
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\Config.ts.meta": {
+    "time": 1694449589373.3298
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\EventDefine.ts.meta": {
+    "time": 1694449589374.3281
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\GameMessageBase.ts.meta": {
+    "time": 1694449589375.3254
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\WSClient.ts.meta": {
+    "time": 1694449589375.3254
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\Config.ts": {
+    "time": 1694602368952.0298,
+    "uuid": "10a47933-d271-4efc-84cf-3a520ce1cf18",
+    "missing": false
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\EventDefine.ts": {
+    "time": 1694526296957.9827,
+    "uuid": "8191d2ff-59b7-471e-9322-7c53b67ba0cf",
+    "missing": false
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\GameMessageBase.ts": {
+    "time": 1694603062210.7998,
+    "uuid": "f51c4ed2-f7cb-41dd-85f4-380ebe6c82ea",
+    "missing": false
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\WSClient.ts": {
+    "time": 1694527016310.6975,
+    "uuid": "3e0ec939-c79f-4a20-99bd-d9138c8ca1b0",
+    "missing": false
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\EventCenter.ts.meta": {
+    "time": 1694522109386.984
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\EventCenter.ts": {
+    "time": 1694571159044.3167,
+    "uuid": "71d20797-f4b2-41af-9152-1d08cd06b260",
+    "missing": false
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\scene\\scene.scene.meta": {
+    "time": 1694608478008.2886
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\scene\\scene.scene": {
+    "time": 1694571661374.594,
+    "uuid": "9230170b-4559-4b0d-9aee-1fb3ff09ab2a",
+    "missing": false
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\prefab.meta": {
+    "time": 1694608471612.4617
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\prefab": {
+    "time": 1694536104371.3723,
+    "uuid": "44f8ceef-e6f2-4b80-87a8-f5bda33dc309",
+    "missing": false
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\prefab\\Square.prefab.meta": {
+    "time": 1694608478009.3015
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\prefab\\Square.prefab": {
+    "time": 1694537047074.7678,
+    "uuid": "9e9ca7e2-f868-48ad-a462-3bbea44b8261",
+    "missing": false
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\Square.ts.meta": {
+    "time": 1694536140676.0452
+  },
+  "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\Square.ts": {
+    "time": 1694571868106.4812,
+    "uuid": "d53e7e75-83f1-40a8-bd16-27a09ca8ffb0",
+    "missing": false
+  }
+}

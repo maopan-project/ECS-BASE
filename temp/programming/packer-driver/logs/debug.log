@@ -1,0 +1,1099 @@
+debug: Wed, 27 Dec 2023 15:55:59 GMT
+debug: Project: F:\ACode\CocosCode\ECS_Demo
+debug: Targets: editor,preview
+debug: Incremental file seems great.
+debug: Engine path: C:\ProgramData\cocos\editors\Creator\3.8.0\resources\resources\3d\engine
+debug: Initializing target [Editor]
+debug: Loading cache
+debug: Loading cache costs 17.246600031852722ms.
+debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,gfx-empty,3d,animation,skeletal-animation,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,occlusion-query,geometry-renderer,debug-renderer,audio,video,xr,light-probe,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette,procedural-animation,custom-pipeline,websocket,websocket-server
+debug: Our import map(foo:/bar): {
+  "imports": {
+    "cc": "cce:/internal/x/cc"
+  }
+}
+debug: Initializing target [Preview]
+debug: Loading cache
+debug: Loading cache costs 17.869700074195862ms.
+debug: Our import map(foo:/bar): {
+  "imports": {
+    "cc": "cce:/internal/x/cc"
+  }
+}
+debug: Sync engine features: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,webview
+debug: Reset databases. Enumerated domains: [
+  {
+    "root": "db://internal/",
+    "physical": "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\editor\\assets"
+  },
+  {
+    "root": "db://assets/",
+    "physical": "F:\\ACode\\CocosCode\\ECS_Demo\\assets"
+  }
+]
+debug: Our import map(foo:/bar): {
+  "imports": {
+    "cc": "cce:/internal/x/cc",
+    "db://internal/": "file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/",
+    "db://assets/": "file:///F:/ACode/CocosCode/ECS_Demo/assets/"
+  }
+}
+debug: Our import map(foo:/bar): {
+  "imports": {
+    "cc": "cce:/internal/x/cc",
+    "db://internal/": "file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/",
+    "db://assets/": "file:///F:/ACode/CocosCode/ECS_Demo/assets/"
+  }
+}
+debug: Pulling asset-db.
+debug: Fetch asset-db cost: 10.03849995136261ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 37
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:14 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:14 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/gfx-empty from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-empty.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
+debug: Resolve cce:/internal/x/cc-fu/skeletal-animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/skeletal-animation.
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/sorting from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/sorting.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/geometry-renderer from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/geometry-renderer.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/xr from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/xr.
+debug: Resolve cce:/internal/x/cc-fu/light-probe from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/light-probe.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Resolve cce:/internal/x/cc-fu/custom-pipeline from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/custom-pipeline.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:45:16 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:15 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve cc from file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as cce:/internal/code-quality/cr.mjs.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Sun Dec 17 2023 19:59:48 GMT+0800 (中国标准时间), Current mtime: Wed Dec 27 2023 23:55:44 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as cce:/internal/x/cc.
+debug: Resolve ./ecs/components/ActorStatusComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/Component from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts as cce:/internal/x/cc.
+debug: Resolve ./ecs/components/CampComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/Component from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve ./ecs/components/CollisionComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/Component from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve ./ecs/components/FireComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/Component from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve ./ecs/components/MoveComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts as cce:/internal/x/cc.
+debug: Resolve ../../GameType from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/Component from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve ./ecs/components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/Component from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve ./ecs/components/TransformComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts as cce:/internal/x/cc.
+debug: Resolve ../../GameType from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve ../framework/Component from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve ./ecs/framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts. Last mtime: Sun Dec 17 2023 23:16:15 GMT+0800 (中国标准时间)@d3db71dc-7b48-4e72-9a4f-f27e55f7fc8e, Current mtime: Wed Dec 27 2023 23:51:28 GMT+0800 (中国标准时间)@d3db71dc-7b48-4e72-9a4f-f27e55f7fc8e
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts as cce:/internal/x/cc.
+debug: Resolve ./ecs/framework/World from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts. Last mtime: Sun Dec 17 2023 22:12:58 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b, Current mtime: Wed Dec 27 2023 23:37:58 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/x/cc.
+debug: Resolve ../GameService from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts. Last mtime: Sun Dec 17 2023 23:17:34 GMT+0800 (中国标准时间)@335ea05c-4e95-4d18-b1fc-bb3c549f737f, Current mtime: Wed Dec 27 2023 23:52:31 GMT+0800 (中国标准时间)@335ea05c-4e95-4d18-b1fc-bb3c549f737f
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as cce:/internal/x/cc.
+debug: Resolve ./components/ActorStatusComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts.
+debug: Resolve ./components/AutoDestroyComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts.
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/Component from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve ./components/BulletComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/Component from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve ./components/CampComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve ./components/CollisionComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve ./components/FireComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve ./components/MoveComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve ./components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve ./components/TransformComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve ./framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./framework/World from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve ./systems/AutoDestroySystem from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts.
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts as cce:/internal/x/cc.
+debug: Resolve ../components/AutoDestroyComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts.
+debug: Resolve ../framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./systems/CollisionDetectionSystem from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts as cce:/internal/x/cc.
+debug: Resolve ../components/CollisionComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve ../components/TransformComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve ../framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./systems/FireSystem from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts. Last mtime: Sun Dec 17 2023 23:45:03 GMT+0800 (中国标准时间)@c62fc9fc-64d1-4096-8966-a65e1a603c32, Current mtime: Wed Dec 27 2023 23:47:12 GMT+0800 (中国标准时间)@c62fc9fc-64d1-4096-8966-a65e1a603c32
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as cce:/internal/x/cc.
+debug: Resolve ../../GameTool from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts as cce:/internal/x/cc.
+debug: Resolve ../components/AutoDestroyComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts.
+debug: Resolve ../components/BulletComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts.
+debug: Resolve ../components/CampComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve ../components/CollisionComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve ../components/FireComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve ../components/MoveComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve ../components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve ../components/TransformComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve ../framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./systems/HitSystem from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts as cce:/internal/x/cc.
+debug: Resolve ../../GameTool from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts.
+debug: Resolve ../components/ActorStatusComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts.
+debug: Resolve ../components/BulletComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts.
+debug: Resolve ../components/CampComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve ../components/CollisionComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve ../framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./systems/MoveSystem from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts as cce:/internal/x/cc.
+debug: Resolve ../components/MoveComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve ../components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve ../components/TransformComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve ../framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./systems/NetwrokReciveSystem from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts as cce:/internal/x/cc.
+debug: Resolve ../components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve ../framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ../components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve ./ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./ECSTool from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts as cce:/internal/x/cc.
+debug: Resolve ./Entity from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts. Last mtime: Thu Dec 07 2023 00:25:37 GMT+0800 (中国标准时间)@50a9b087-abbf-4e8a-afd5-202346c65d80, Current mtime: Wed Dec 27 2023 23:24:42 GMT+0800 (中国标准时间)@50a9b087-abbf-4e8a-afd5-202346c65d80
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts as cce:/internal/x/cc.
+debug: Resolve ./ECSTool from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve ./World from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve ./ecs/GameService from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve ./event/EventCenter from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts as cce:/internal/x/cc.
+debug: Resolve ./GameType from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve ./network/GameMessage from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts as cce:/internal/x/cc.
+debug: Resolve ../GameType from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve ./network/WSClient from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts as cce:/internal/x/cc.
+debug: Resolve ../event/EventCenter from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts as cce:/internal/x/cc.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts as cce:/internal/x/cc.
+debug: Resolve ../../ui/GameActor from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts. Last mtime: Sun Dec 10 2023 00:43:42 GMT+0800 (中国标准时间)@7a19e081-07ae-4de6-bb10-849799a916e3, Current mtime: Wed Dec 27 2023 23:42:40 GMT+0800 (中国标准时间)@7a19e081-07ae-4de6-bb10-849799a916e3
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as cce:/internal/x/cc.
+debug: Resolve ../ecs/components/FireComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve ../ecs/components/MoveComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve ../ecs/components/TransformComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve ../ecs/framework/World from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve ../state-machine/GameActorMachine from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts as cce:/internal/x/cc.
+debug: Resolve ../state-machine/GameActorState from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts as cce:/internal/x/cc.
+debug: Resolve ../GameTool from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts.
+debug: Resolve ../ui/GameUIBase from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts. Last mtime: Sun Dec 10 2023 00:14:02 GMT+0800 (中国标准时间)@1e43ee01-8d58-465e-adf7-32a426d91e54, Current mtime: Wed Dec 27 2023 23:54:07 GMT+0800 (中国标准时间)@1e43ee01-8d58-465e-adf7-32a426d91e54
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts as cce:/internal/x/cc.
+debug: Resolve ../../ui/GameBullet from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts. Last mtime: Sun Dec 17 2023 22:17:11 GMT+0800 (中国标准时间)@f5006e2d-3bda-4bb9-a765-838d28c4f349, Current mtime: Wed Dec 27 2023 23:42:36 GMT+0800 (中国标准时间)@f5006e2d-3bda-4bb9-a765-838d28c4f349
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts as cce:/internal/x/cc.
+debug: Resolve ../ecs/components/MoveComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve ../ecs/components/TransformComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve ../ecs/framework/World from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve ./GameUIBase from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts.
+debug: Resolve ../framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ../framework/World from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts as cce:/internal/x/cc.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts.
+debug: Target(editor) ends with cost 609.3094999790192ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:14 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:15 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/sorting from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/sorting.
+debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-box2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-box2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:45:17 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:15 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve cc from file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as cce:/internal/code-quality/cr.mjs.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Sun Dec 17 2023 19:59:48 GMT+0800 (中国标准时间), Current mtime: Wed Dec 27 2023 23:55:44 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as cce:/internal/x/cc.
+debug: Resolve ./ecs/components/ActorStatusComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/Component from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts as cce:/internal/x/cc.
+debug: Resolve ./ecs/components/CampComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/Component from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve ./ecs/components/CollisionComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/Component from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve ./ecs/components/FireComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/Component from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve ./ecs/components/MoveComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts as cce:/internal/x/cc.
+debug: Resolve ../../GameType from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/Component from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve ./ecs/components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/Component from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve ./ecs/components/TransformComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts as cce:/internal/x/cc.
+debug: Resolve ../../GameType from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve ../framework/Component from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve ./ecs/framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts. Last mtime: Sun Dec 17 2023 23:16:15 GMT+0800 (中国标准时间)@d3db71dc-7b48-4e72-9a4f-f27e55f7fc8e, Current mtime: Wed Dec 27 2023 23:51:28 GMT+0800 (中国标准时间)@d3db71dc-7b48-4e72-9a4f-f27e55f7fc8e
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts as cce:/internal/x/cc.
+debug: Resolve ./ecs/framework/World from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts. Last mtime: Sun Dec 17 2023 22:12:58 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b, Current mtime: Wed Dec 27 2023 23:37:58 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/x/cc.
+debug: Resolve ../GameService from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts. Last mtime: Sun Dec 17 2023 23:17:34 GMT+0800 (中国标准时间)@335ea05c-4e95-4d18-b1fc-bb3c549f737f, Current mtime: Wed Dec 27 2023 23:52:31 GMT+0800 (中国标准时间)@335ea05c-4e95-4d18-b1fc-bb3c549f737f
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as cce:/internal/x/cc.
+debug: Resolve ./components/ActorStatusComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts.
+debug: Resolve ./components/AutoDestroyComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts.
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/Component from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve ./components/BulletComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/Component from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve ./components/CampComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve ./components/CollisionComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve ./components/FireComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve ./components/MoveComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve ./components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve ./components/TransformComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve ./framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./framework/World from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve ./systems/AutoDestroySystem from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts.
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts as cce:/internal/x/cc.
+debug: Resolve ../components/AutoDestroyComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts.
+debug: Resolve ../framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./systems/CollisionDetectionSystem from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts as cce:/internal/x/cc.
+debug: Resolve ../components/CollisionComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve ../components/TransformComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve ../framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./systems/FireSystem from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts. Last mtime: Sun Dec 17 2023 23:45:03 GMT+0800 (中国标准时间)@c62fc9fc-64d1-4096-8966-a65e1a603c32, Current mtime: Wed Dec 27 2023 23:47:12 GMT+0800 (中国标准时间)@c62fc9fc-64d1-4096-8966-a65e1a603c32
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as cce:/internal/x/cc.
+debug: Resolve ../../GameTool from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts as cce:/internal/x/cc.
+debug: Resolve ../components/AutoDestroyComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts.
+debug: Resolve ../components/BulletComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts.
+debug: Resolve ../components/CampComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve ../components/CollisionComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve ../components/FireComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve ../components/MoveComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve ../components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve ../components/TransformComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve ../framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./systems/HitSystem from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts as cce:/internal/x/cc.
+debug: Resolve ../../GameTool from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts.
+debug: Resolve ../components/ActorStatusComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts.
+debug: Resolve ../components/BulletComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts.
+debug: Resolve ../components/CampComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve ../components/CollisionComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve ../framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./systems/MoveSystem from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts as cce:/internal/x/cc.
+debug: Resolve ../components/MoveComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve ../components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve ../components/TransformComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve ../framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./systems/NetwrokReciveSystem from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts as cce:/internal/x/cc.
+debug: Resolve ../components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve ../framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ../components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve ./ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./ECSTool from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts as cce:/internal/x/cc.
+debug: Resolve ./Entity from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts. Last mtime: Thu Dec 07 2023 00:25:37 GMT+0800 (中国标准时间)@50a9b087-abbf-4e8a-afd5-202346c65d80, Current mtime: Wed Dec 27 2023 23:24:42 GMT+0800 (中国标准时间)@50a9b087-abbf-4e8a-afd5-202346c65d80
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts as cce:/internal/x/cc.
+debug: Resolve ./ECSTool from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve ./World from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve ./ecs/GameService from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve ./event/EventCenter from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts as cce:/internal/x/cc.
+debug: Resolve ./GameType from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve ./network/GameMessage from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts as cce:/internal/x/cc.
+debug: Resolve ../GameType from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve ./network/WSClient from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts as cce:/internal/x/cc.
+debug: Resolve ../event/EventCenter from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts as cce:/internal/x/cc.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts as cce:/internal/x/cc.
+debug: Resolve ../framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts as cce:/internal/x/cc.
+debug: Resolve ../../ui/GameActor from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts. Last mtime: Sun Dec 10 2023 00:43:42 GMT+0800 (中国标准时间)@7a19e081-07ae-4de6-bb10-849799a916e3, Current mtime: Wed Dec 27 2023 23:42:40 GMT+0800 (中国标准时间)@7a19e081-07ae-4de6-bb10-849799a916e3
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as cce:/internal/x/cc.
+debug: Resolve ../ecs/components/FireComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve ../ecs/components/MoveComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve ../ecs/components/TransformComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve ../ecs/framework/World from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve ../state-machine/GameActorMachine from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts as cce:/internal/x/cc.
+debug: Resolve ../state-machine/GameActorState from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts as cce:/internal/x/cc.
+debug: Resolve ../GameTool from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts.
+debug: Resolve ../ui/GameUIBase from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts. Last mtime: Sun Dec 10 2023 00:14:02 GMT+0800 (中国标准时间)@1e43ee01-8d58-465e-adf7-32a426d91e54, Current mtime: Wed Dec 27 2023 23:54:07 GMT+0800 (中国标准时间)@1e43ee01-8d58-465e-adf7-32a426d91e54
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts as cce:/internal/x/cc.
+debug: Resolve ../../ui/GameBullet from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts. Last mtime: Sun Dec 17 2023 22:17:11 GMT+0800 (中国标准时间)@f5006e2d-3bda-4bb9-a765-838d28c4f349, Current mtime: Wed Dec 27 2023 23:42:36 GMT+0800 (中国标准时间)@f5006e2d-3bda-4bb9-a765-838d28c4f349
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts as cce:/internal/x/cc.
+debug: Resolve ../ecs/components/MoveComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve ../ecs/components/TransformComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve ../ecs/framework/World from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve ./GameUIBase from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts.
+debug: Resolve ../framework/ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ../framework/World from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts as cce:/internal/x/cc.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts.
+debug: Target(preview) ends with cost 418.5618999004364ms.
+debug: Pulling asset-db.
+debug: Fetch asset-db cost: 531.6338999271393ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 37
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:15 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:17 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts.
+debug: Target(editor) ends with cost 79.32669997215271ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:15 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:17 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts.
+debug: Target(preview) ends with cost 44.67460000514984ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:17 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:05:56 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts. Last mtime: Wed Dec 27 2023 23:37:58 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b, Current mtime: Thu Dec 28 2023 00:01:33 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/x/cc.
+debug: Resolve ../GameService from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve ../components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve ./ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./ECSTool from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve ./Entity from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts.
+debug: Target(editor) ends with cost 178.30309998989105ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:17 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:05:56 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts. Last mtime: Wed Dec 27 2023 23:37:58 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b, Current mtime: Thu Dec 28 2023 00:01:33 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/x/cc.
+debug: Resolve ../GameService from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve ../components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve ./ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./ECSTool from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve ./Entity from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts.
+debug: Target(preview) ends with cost 122.28840005397797ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:05:56 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:08:39 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts. Last mtime: Thu Dec 28 2023 00:01:33 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b, Current mtime: Thu Dec 28 2023 00:04:21 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/x/cc.
+debug: Resolve ../GameService from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve ../components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve ./ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./ECSTool from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve ./Entity from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts.
+debug: Target(editor) ends with cost 112.31070005893707ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:05:56 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:08:39 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts. Last mtime: Thu Dec 28 2023 00:01:33 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b, Current mtime: Thu Dec 28 2023 00:04:21 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/x/cc.
+debug: Resolve ../GameService from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve ../components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve ./ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./ECSTool from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve ./Entity from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts.
+debug: Target(preview) ends with cost 139.37839996814728ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:08:39 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:09:42 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts. Last mtime: Thu Dec 28 2023 00:04:21 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b, Current mtime: Thu Dec 28 2023 00:05:21 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/x/cc.
+debug: Resolve ../GameService from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve ../components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve ./ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./ECSTool from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve ./Entity from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts.
+debug: Target(editor) ends with cost 130.34379994869232ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:08:39 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:09:43 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts. Last mtime: Thu Dec 28 2023 00:04:21 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b, Current mtime: Thu Dec 28 2023 00:05:21 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/x/cc.
+debug: Resolve ../GameService from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve ../components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve ./ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./ECSTool from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve ./Entity from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts.
+debug: Target(preview) ends with cost 112.72479999065399ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:09:42 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:11:45 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts. Last mtime: Thu Dec 28 2023 00:05:21 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b, Current mtime: Thu Dec 28 2023 00:07:26 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/x/cc.
+debug: Resolve ../GameService from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve ../components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve ./ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./ECSTool from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve ./Entity from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts.
+debug: Target(editor) ends with cost 103.8144999742508ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:09:43 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:11:45 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameStart.ts.
+debug: Detected change: file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts. Last mtime: Thu Dec 28 2023 00:05:21 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b, Current mtime: Thu Dec 28 2023 00:07:26 GMT+0800 (中国标准时间)@e482f173-53df-4815-95ce-925c599cce5b
+debug: Inspect file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as cce:/internal/x/cc.
+debug: Resolve ../GameService from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve ../components/NetworkComponent from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve ./ECSConfig from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve ./ECSTool from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve ./Entity from file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/GameType.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/GameService.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/ActorStatusComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/AutoDestroyComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/BulletComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CampComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/CollisionComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/FireComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/MoveComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/NetworkComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/components/TransformComponent.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Component.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSConfig.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/ECSTool.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/Entity.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/System.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/framework/World.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/AutoDestroySystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/CollisionDetectionSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/FireSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/HitSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/InputSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/MoveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/NetwrokReciveSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ecs/systems/RenderSystem.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventCenter.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/event/EventDefine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/GameMessage.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/network/WSClient.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorMachine.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/state-machine/GameActorState.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameActor.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameBullet.ts.
+debug: Resolve file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts from cce:/internal/x/prerequisite-imports as file:///F:/ACode/CocosCode/ECS_Demo/assets/src/ui/GameUIBase.ts.
+debug: Target(preview) ends with cost 147.85769999027252ms.

@@ -1,0 +1,1 @@
+{"version":3,"sources":["file:///D:/File/Cocos/ECS_Demo/assets/src/Config.ts"],"names":["Direction"],"mappings":";;;;;;;;;;;;;;2BAAYA,S,0BAAAA,S;AAAAA,QAAAA,S,CAAAA,S;AAAAA,QAAAA,S,CAAAA,S;AAAAA,QAAAA,S,CAAAA,S;AAAAA,QAAAA,S,CAAAA,S;eAAAA,S","sourcesContent":["export enum Direction {\r\n    Up,\r\n    Down,\r\n    Left,\r\n    Right\r\n}"]}

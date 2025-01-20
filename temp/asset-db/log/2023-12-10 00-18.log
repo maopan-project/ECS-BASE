@@ -1,0 +1,352 @@
+2023-12-10 00:18:31-log: Cannot access game frame or container.
+2023-12-10 00:18:32-debug: asset-db:require-engine-code (2020ms)
+2023-12-10 00:18:32-log: Cocos Creator v3.8.0
+2023-12-10 00:18:32-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:21.38MB, end 87.63MB, increase: 66.26MB
+2023-12-10 00:18:32-debug: [Assets Memory track]: asset-db-plugin-register: engine-extends start:91.05MB, end 94.66MB, increase: 3.61MB
+2023-12-10 00:18:32-debug: [Assets Memory track]: asset-db-plugin-register: programming start:88.42MB, end 91.01MB, increase: 2.58MB
+2023-12-10 00:18:32-debug: [Assets Memory track]: asset-db-plugin-enable: project start:91.22MB, end 94.67MB, increase: 3.45MB
+2023-12-10 00:18:32-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:87.64MB, end 94.67MB, increase: 7.03MB
+2023-12-10 00:18:32-debug: asset-db:worker-init: initPlugin (146ms)
+2023-12-10 00:18:32-debug: [Assets Memory track]: asset-db:worker-init start:21.37MB, end 94.73MB, increase: 73.35MB
+2023-12-10 00:18:32-debug: Run asset db hook programming:beforePreStart ...
+2023-12-10 00:18:32-debug: Run asset db hook programming:beforePreStart success!
+2023-12-10 00:18:32-debug: Run asset db hook engine-extends:beforePreStart success!
+2023-12-10 00:18:40-debug: [Assets Memory track]: asset-db-plugin-enable: builder start:108.49MB, end 260.09MB, increase: 151.60MB
+2023-12-10 00:18:32-debug: Run asset db hook engine-extends:beforePreStart ...
+2023-12-10 00:18:40-debug: run package(builder) handler(enable) success!
+2023-12-10 00:18:35-debug: run package(builder) handler(enable) start
+2023-12-10 00:18:40-debug: run package(shortcuts) handler(enable) start
+2023-12-10 00:18:40-debug: run package(shortcuts) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(animation-graph) handler(enable) start
+2023-12-10 00:18:40-debug: run package(animation-graph) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(about) handler(enable) start
+2023-12-10 00:18:40-debug: run package(assets) handler(enable) start
+2023-12-10 00:18:40-debug: run package(about) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(assets) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(console) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(crash-reporter) handler(enable) start
+2023-12-10 00:18:40-debug: run package(crash-reporter) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(extension) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(extension) handler(enable) start
+2023-12-10 00:18:40-debug: run package(hierarchy) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(inspector) handler(enable) start
+2023-12-10 00:18:40-debug: run package(hierarchy) handler(enable) start
+2023-12-10 00:18:40-debug: run package(inspector) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(console) handler(enable) start
+2023-12-10 00:18:40-debug: run package(light-probe) handler(enable) start
+2023-12-10 00:18:40-debug: run package(lightmap) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(light-probe) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(node-library) handler(enable) start
+2023-12-10 00:18:40-debug: run package(node-library) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(package-asset) handler(enable) start
+2023-12-10 00:18:40-debug: run package(package-asset) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(process) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(reference-image) handler(enable) start
+2023-12-10 00:18:40-debug: run package(reference-image) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(reflection-probe) handler(enable) start
+2023-12-10 00:18:40-debug: run package(lightmap) handler(enable) start
+2023-12-10 00:18:40-debug: run package(reflection-probe) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(engine-extends) handler(enable) start
+2023-12-10 00:18:40-debug: run package(engine-extends) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(adsense-h5g-plugin) handler(enable) start
+2023-12-10 00:18:40-debug: run package(adsense-h5g-plugin) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(alipay-mini-game) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(android) handler(enable) start
+2023-12-10 00:18:40-debug: run package(alipay-mini-game) handler(enable) start
+2023-12-10 00:18:40-debug: run package(bytedance-mini-game) handler(enable) start
+2023-12-10 00:18:40-debug: run package(bytedance-mini-game) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(android) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(certificate) handler(enable) start
+2023-12-10 00:18:40-debug: run package(certificate) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(channel-upload-tools) handler(enable) start
+2023-12-10 00:18:40-debug: run package(channel-upload-tools) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(process) handler(enable) start
+2023-12-10 00:18:40-debug: run package(fb-instant-games) handler(enable) start
+2023-12-10 00:18:40-debug: run package(huawei-agc) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(fb-instant-games) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(huawei-quick-game) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(ios) handler(enable) start
+2023-12-10 00:18:40-debug: run package(huawei-quick-game) handler(enable) start
+2023-12-10 00:18:40-debug: run package(ios) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(huawei-agc) handler(enable) start
+2023-12-10 00:18:40-debug: run package(linux) handler(enable) start
+2023-12-10 00:18:40-debug: run package(linux) handler(enable) success!
+2023-12-10 00:18:40-debug: asset-db:worker-init (5121ms)
+2023-12-10 00:18:40-debug: asset-db-hook-programming-beforePreStart (2325ms)
+2023-12-10 00:18:40-debug: run package(mac) handler(enable) start
+2023-12-10 00:18:40-debug: run package(mac) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(native) handler(enable) start
+2023-12-10 00:18:40-debug: run package(native) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(openharmony) handler(enable) start
+2023-12-10 00:18:40-debug: run package(openharmony) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(oppo-mini-game) handler(enable) start
+2023-12-10 00:18:40-debug: run package(ohos) handler(enable) start
+2023-12-10 00:18:40-debug: run package(oppo-mini-game) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(runtime-dev-tools) handler(enable) start
+2023-12-10 00:18:40-debug: run package(runtime-dev-tools) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(taobao-creative-app) handler(enable) start
+2023-12-10 00:18:40-debug: asset-db-hook-engine-extends-beforePreStart (2325ms)
+2023-12-10 00:18:40-debug: run package(taobao-creative-app) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(taobao-mini-game) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(ohos) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(taobao-mini-game) handler(enable) start
+2023-12-10 00:18:40-debug: run package(vivo-mini-game) handler(enable) start
+2023-12-10 00:18:40-debug: run package(web-desktop) handler(enable) start
+2023-12-10 00:18:40-debug: run package(vivo-mini-game) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(web-desktop) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(web-mobile) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(wechatgame) handler(enable) start
+2023-12-10 00:18:40-debug: run package(wechatgame) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(wechatprogram) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(web-mobile) handler(enable) start
+2023-12-10 00:18:40-debug: run package(wechatprogram) handler(enable) start
+2023-12-10 00:18:40-debug: run package(windows) handler(enable) start
+2023-12-10 00:18:40-debug: run package(windows) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(cocos-service) handler(enable) start
+2023-12-10 00:18:40-debug: run package(xiaomi-quick-game) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(im-plugin) handler(enable) start
+2023-12-10 00:18:40-debug: run package(cocos-service) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(xiaomi-quick-game) handler(enable) start
+2023-12-10 00:18:40-debug: run package(prefab380fix) handler(enable) start
+2023-12-10 00:18:40-debug: run package(im-plugin) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(prefab380fix) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(blank-template) handler(enable) success!
+2023-12-10 00:18:40-debug: run package(placeholder) handler(enable) start
+2023-12-10 00:18:40-debug: run package(blank-template) handler(enable) start
+2023-12-10 00:18:40-debug: run package(placeholder) handler(enable) success!
+2023-12-10 00:18:40-debug: Preimport db internal success
+2023-12-10 00:18:41-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\src\uibackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:18:41-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\src\GameStart.tsbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:18:41-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\src\ui\GameBullet.tsbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:18:41-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\src\prefabs\GameActor.tsbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:18:41-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\src\ui\GameUIBase.tsbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:18:41-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\src\ecs\systems\RenderSystem.tsbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:18:41-debug: Preimport db assets success
+2023-12-10 00:18:41-debug: Run asset db hook programming:afterPreStart ...
+2023-12-10 00:18:41-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-12-10 00:18:41-debug: Run asset db hook programming:afterPreStart success!
+2023-12-10 00:18:41-debug: Run asset db hook engine-extends:afterPreStart ...
+2023-12-10 00:18:41-debug: [Assets Memory track]: asset-db:worker-init: preStart start:94.73MB, end 265.52MB, increase: 170.79MB
+2023-12-10 00:18:41-debug: Run asset db hook engine-extends:afterPreStart success!
+2023-12-10 00:18:41-debug: Start up the 'internal' database...
+2023-12-10 00:18:42-debug: asset-db:worker-effect-data-processing (508ms)
+2023-12-10 00:18:42-debug: asset-db-hook-programming-afterPreStart (1421ms)
+2023-12-10 00:18:42-debug: asset-db-hook-engine-extends-afterPreStart (510ms)
+2023-12-10 00:18:42-debug: start asset-db with asset: 459
+2023-12-10 00:18:42-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:107.49MB, end 263.41MB, increase: 155.92MB
+2023-12-10 00:18:42-debug: Start up the 'assets' database...
+2023-12-10 00:18:42-debug: asset-db:worker-startup-database[internal] (8629ms)
+2023-12-10 00:18:42-debug: start asset-db with asset: 69
+2023-12-10 00:18:42-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:260.98MB, end 264.28MB, increase: 3.30MB
+2023-12-10 00:18:42-debug: asset-db:worker-startup-database[assets] (1806ms)
+2023-12-10 00:18:42-debug: asset-db:ready (15736ms)
+2023-12-10 00:18:42-debug: asset-db:start-database (9874ms)
+2023-12-10 00:18:42-debug: init worker message success
+2023-12-10 00:18:43-debug: [Build Memory track]: builder:worker-init start:261.73MB, end 275.90MB, increase: 14.17MB
+2023-12-10 00:18:43-debug: programming:execute-script (524ms)
+2023-12-10 00:18:43-debug: builder:worker-init (505ms)
+2023-12-10 00:18:44-debug: programming:execute-script (3ms)
+2023-12-10 00:18:50-debug: refresh db internal success
+2023-12-10 00:18:50-debug: refresh db assets success
+2023-12-10 00:18:50-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:18:50-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:18:50-debug: asset-db:refresh-all-database (42ms)
+2023-12-10 00:18:50-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-12-10 00:19:06-debug: refresh db internal success
+2023-12-10 00:19:06-debug: refresh db assets success
+2023-12-10 00:19:06-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:19:06-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:19:06-debug: asset-db:refresh-all-database (41ms)
+2023-12-10 00:19:44-debug: refresh db internal success
+2023-12-10 00:19:44-debug: refresh db assets success
+2023-12-10 00:19:44-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:19:44-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:19:44-debug: asset-db:refresh-all-database (45ms)
+2023-12-10 00:19:48-debug: refresh db internal success
+2023-12-10 00:19:48-debug: refresh db assets success
+2023-12-10 00:19:48-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:19:48-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:19:48-debug: asset-db:refresh-all-database (37ms)
+2023-12-10 00:19:48-debug: asset-db:worker-effect-data-processing (1ms)
+2023-12-10 00:19:48-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-12-10 00:20:10-debug: start refresh asset from F:\ACode\CocosCode\ECS_Demo\assets\prefab\Bullet.prefab...
+2023-12-10 00:20:10-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\prefab\Bullet.prefabbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:20:10-debug: refresh asset F:\ACode\CocosCode\ECS_Demo\assets\prefab success
+2023-12-10 00:20:10-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\prefabbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:20:34-debug: refresh db internal success
+2023-12-10 00:20:34-debug: refresh db assets success
+2023-12-10 00:20:34-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:20:34-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:20:34-debug: asset-db:refresh-all-database (38ms)
+2023-12-10 00:20:34-debug: asset-db:worker-effect-data-processing (1ms)
+2023-12-10 00:20:34-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-12-10 00:20:42-debug: refresh db internal success
+2023-12-10 00:20:42-debug: refresh db assets success
+2023-12-10 00:20:42-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:20:42-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:20:42-debug: asset-db:refresh-all-database (42ms)
+2023-12-10 00:20:49-debug: start move asset from F:\ACode\CocosCode\ECS_Demo\assets\prefab\GameActor.prefab -> F:\ACode\CocosCode\ECS_Demo\assets\prefab\Actor.prefab...
+2023-12-10 00:20:49-debug: start refresh asset from F:\ACode\CocosCode\ECS_Demo\assets\prefab\Actor.prefab...
+2023-12-10 00:20:49-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\prefab\Actor.prefabbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:20:49-debug: refresh asset F:\ACode\CocosCode\ECS_Demo\assets\prefab success
+2023-12-10 00:20:49-debug: start refresh asset from F:\ACode\CocosCode\ECS_Demo\assets\prefab...
+2023-12-10 00:20:49-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\prefabbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:20:49-debug: refresh asset F:\ACode\CocosCode\ECS_Demo\assets success
+2023-12-10 00:20:49-debug: move asset from F:\ACode\CocosCode\ECS_Demo\assets\prefab\GameActor.prefab -> F:\ACode\CocosCode\ECS_Demo\assets\prefab\Actor.prefab success
+2023-12-10 00:20:52-debug: refresh db internal success
+2023-12-10 00:20:52-debug: refresh db assets success
+2023-12-10 00:20:52-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:20:52-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:20:52-debug: asset-db:refresh-all-database (37ms)
+2023-12-10 00:21:05-debug: refresh db internal success
+2023-12-10 00:21:05-debug: refresh db assets success
+2023-12-10 00:21:05-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:21:05-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:21:05-debug: asset-db:refresh-all-database (48ms)
+2023-12-10 00:21:05-debug: asset-db:worker-effect-data-processing (1ms)
+2023-12-10 00:21:05-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-12-10 00:21:33-debug: refresh db internal success
+2023-12-10 00:21:33-debug: refresh db assets success
+2023-12-10 00:21:33-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:21:33-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:21:33-debug: asset-db:refresh-all-database (36ms)
+2023-12-10 00:21:33-debug: asset-db:worker-effect-data-processing (1ms)
+2023-12-10 00:21:33-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-12-10 00:32:47-debug: refresh db internal success
+2023-12-10 00:32:47-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\src\GameStart.tsbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:32:47-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\src\ecs\GameService.tsbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:32:47-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\src\ecs\systems\MoveSystem.tsbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:32:47-debug: refresh db assets success
+2023-12-10 00:32:47-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:32:47-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:32:47-debug: asset-db:refresh-all-database (38ms)
+2023-12-10 00:32:47-debug: asset-db:worker-effect-data-processing (1ms)
+2023-12-10 00:32:47-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-12-10 00:32:53-debug: start move asset from F:\ACode\CocosCode\ECS_Demo\assets\src\prefabs\GameActor.ts -> F:\ACode\CocosCode\ECS_Demo\assets\src\ui\GameActor.ts...
+2023-12-10 00:32:53-debug: start refresh asset from F:\ACode\CocosCode\ECS_Demo\assets\src\ui\GameActor.ts...
+2023-12-10 00:32:53-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\src\ui\GameActor.tsbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:32:53-debug: refresh asset F:\ACode\CocosCode\ECS_Demo\assets\src\ui success
+2023-12-10 00:32:53-debug: start refresh asset from F:\ACode\CocosCode\ECS_Demo\assets\src\prefabs...
+2023-12-10 00:32:53-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\src\prefabsbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:32:53-debug: refresh asset F:\ACode\CocosCode\ECS_Demo\assets\src success
+2023-12-10 00:32:53-debug: move asset from F:\ACode\CocosCode\ECS_Demo\assets\src\prefabs\GameActor.ts -> F:\ACode\CocosCode\ECS_Demo\assets\src\ui\GameActor.ts success
+2023-12-10 00:32:53-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\src\uibackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:32:55-debug: programming:execute-script (1ms)
+2023-12-10 00:32:57-debug: start remove asset F:\ACode\CocosCode\ECS_Demo\assets\src\prefabs...
+2023-12-10 00:32:57-debug: start refresh asset from F:\ACode\CocosCode\ECS_Demo\assets\src\prefabs...
+2023-12-10 00:32:57-debug: %cDestroy%c: F:\ACode\CocosCode\ECS_Demo\assets\src\prefabsbackground: #ffb8b8; color: #000;color: #000;
+2023-12-10 00:32:57-debug: remove asset F:\ACode\CocosCode\ECS_Demo\assets\src\prefabs success
+2023-12-10 00:32:57-debug: refresh asset F:\ACode\CocosCode\ECS_Demo\assets\src success
+2023-12-10 00:32:57-debug: refresh db internal success
+2023-12-10 00:32:57-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\srcbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:32:57-debug: refresh db assets success
+2023-12-10 00:32:57-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:32:57-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:32:57-debug: asset-db:refresh-all-database (32ms)
+2023-12-10 00:40:54-debug: refresh db internal success
+2023-12-10 00:40:54-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\src\ui\GameActor.tsbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:40:54-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\src\state-machine\GameActorMachine.tsbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:40:54-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\src\state-machine\GameActorState.tsbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:40:54-debug: refresh db assets success
+2023-12-10 00:40:54-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:40:54-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:40:54-debug: asset-db:refresh-all-database (57ms)
+2023-12-10 00:40:54-debug: asset-db:worker-effect-data-processing (1ms)
+2023-12-10 00:40:54-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-12-10 00:41:59-debug: refresh db internal success
+2023-12-10 00:41:59-debug: refresh db assets success
+2023-12-10 00:41:59-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:41:59-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:41:59-debug: asset-db:refresh-all-database (45ms)
+2023-12-10 00:41:59-debug: asset-db:worker-effect-data-processing (1ms)
+2023-12-10 00:41:59-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-12-10 00:42:27-debug: start refresh asset from F:\ACode\CocosCode\ECS_Demo\assets\texture\fire...
+2023-12-10 00:42:27-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\texture\firebackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:27-debug: refresh asset F:\ACode\CocosCode\ECS_Demo\assets\texture success
+2023-12-10 00:42:28-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\texturebackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:32-debug: start refresh asset from F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_000.png...
+2023-12-10 00:42:32-debug: start refresh asset from F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_001.png...
+2023-12-10 00:42:32-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_000.pngbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:32-debug: start refresh asset from F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_002.png...
+2023-12-10 00:42:32-debug: start refresh asset from F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_004.png...
+2023-12-10 00:42:32-debug: start refresh asset from F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_003.png...
+2023-12-10 00:42:32-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_000.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:32-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_000.png@f9941background: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:32-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_001.pngbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:32-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_001.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:32-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_001.png@f9941background: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:32-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_002.pngbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:32-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_002.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:32-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_002.png@f9941background: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:33-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_004.pngbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:33-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_004.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:33-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_004.png@f9941background: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:33-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_003.pngbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:33-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_003.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:33-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\texture\fire\Shot_003.png@f9941background: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:33-debug: refresh asset F:\ACode\CocosCode\ECS_Demo\assets\texture\fire success
+2023-12-10 00:42:33-debug: refresh asset F:\ACode\CocosCode\ECS_Demo\assets\texture\fire success
+2023-12-10 00:42:33-debug: refresh asset F:\ACode\CocosCode\ECS_Demo\assets\texture\fire success
+2023-12-10 00:42:33-debug: refresh asset F:\ACode\CocosCode\ECS_Demo\assets\texture\fire success
+2023-12-10 00:42:33-debug: refresh asset F:\ACode\CocosCode\ECS_Demo\assets\texture\fire success
+2023-12-10 00:42:33-debug: refresh db internal success
+2023-12-10 00:42:33-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\texture\firebackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:33-debug: refresh db assets success
+2023-12-10 00:42:33-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:42:33-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:42:33-debug: asset-db:worker-effect-data-processing (-1ms)
+2023-12-10 00:42:33-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-12-10 00:42:33-debug: asset-db:refresh-all-database (35ms)
+2023-12-10 00:42:35-debug: refresh db internal success
+2023-12-10 00:42:35-debug: refresh db assets success
+2023-12-10 00:42:35-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:42:35-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:42:35-debug: asset-db:refresh-all-database (38ms)
+2023-12-10 00:42:48-debug: refresh db internal success
+2023-12-10 00:42:48-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\src\ecs\systems\RenderSystem.tsbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:42:48-debug: refresh db assets success
+2023-12-10 00:42:48-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:42:48-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:42:48-debug: asset-db:refresh-all-database (40ms)
+2023-12-10 00:44:05-debug: refresh db internal success
+2023-12-10 00:44:05-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\src\ui\GameActor.tsbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:44:05-debug: refresh db assets success
+2023-12-10 00:44:05-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:44:05-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:44:05-debug: asset-db:refresh-all-database (40ms)
+2023-12-10 00:44:15-debug: refresh db internal success
+2023-12-10 00:44:15-debug: refresh db assets success
+2023-12-10 00:44:15-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:44:15-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:44:15-debug: asset-db:refresh-all-database (47ms)
+2023-12-10 00:45:27-debug: refresh db internal success
+2023-12-10 00:45:27-debug: refresh db assets success
+2023-12-10 00:45:27-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:45:27-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:45:27-debug: asset-db:refresh-all-database (31ms)
+2023-12-10 00:45:52-debug: start refresh asset from F:\ACode\CocosCode\ECS_Demo\assets\prefab\Actor.prefab...
+2023-12-10 00:45:52-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\prefab\Actor.prefabbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:45:52-debug: refresh asset F:\ACode\CocosCode\ECS_Demo\assets\prefab success
+2023-12-10 00:45:56-debug: start refresh asset from F:\ACode\CocosCode\ECS_Demo\assets\prefab\Actor.prefab...
+2023-12-10 00:45:56-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\prefab\Actor.prefabbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:45:56-debug: refresh asset F:\ACode\CocosCode\ECS_Demo\assets\prefab success
+2023-12-10 00:45:56-debug: start refresh asset from F:\ACode\CocosCode\ECS_Demo\assets\prefab\Actor.prefab...
+2023-12-10 00:45:56-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\prefab\Actor.prefabbackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:45:56-debug: refresh asset F:\ACode\CocosCode\ECS_Demo\assets\prefab success
+2023-12-10 00:46:33-debug: refresh db internal success
+2023-12-10 00:46:33-debug: refresh db assets success
+2023-12-10 00:46:33-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:46:33-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:46:33-debug: asset-db:refresh-all-database (35ms)
+2023-12-10 00:46:59-debug: refresh db internal success
+2023-12-10 00:46:59-debug: refresh db assets success
+2023-12-10 00:46:59-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-12-10 00:46:59-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-12-10 00:46:59-debug: asset-db:refresh-all-database (29ms)
+2023-12-10 00:46:59-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-12-10 00:47:05-debug: start refresh asset from F:\ACode\CocosCode\ECS_Demo\assets\scene\scene.scene...
+2023-12-10 00:47:05-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\scene\scene.scenebackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:47:05-debug: refresh asset F:\ACode\CocosCode\ECS_Demo\assets\scene success
+2023-12-10 00:47:05-debug: start refresh asset from F:\ACode\CocosCode\ECS_Demo\assets\scene\scene.scene...
+2023-12-10 00:47:05-debug: %cImport%c: F:\ACode\CocosCode\ECS_Demo\assets\scene\scene.scenebackground: #aaff85; color: #000;color: #000;
+2023-12-10 00:47:05-debug: refresh asset F:\ACode\CocosCode\ECS_Demo\assets\scene success

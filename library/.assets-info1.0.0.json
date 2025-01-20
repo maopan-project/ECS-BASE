@@ -1,0 +1,1241 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src.meta": {
+      "time": 1694609398485.628
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src": {
+      "time": 1694968295587.473,
+      "uuid": "52dc8595-bde7-4067-9127-0eab38b1bdad"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\scene.meta": {
+      "time": 1694609398485.628
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\scene": {
+      "time": 1694523329229.8926,
+      "uuid": "fc6cd875-dd91-4751-9f1e-37906b98319a"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture.meta": {
+      "time": 1694609398486.6252
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture": {
+      "time": 1695043248555.134,
+      "uuid": "2aa7fd67-9d18-4e9d-aa8f-bc943538d000"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\scene\\scene.scene.meta": {
+      "time": 1694609401310.7603
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\scene\\scene.scene": {
+      "time": 1695046064985.4138,
+      "uuid": "9230170b-4559-4b0d-9aee-1fb3ff09ab2a"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\prefab.meta": {
+      "time": 1694609398485.628
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\prefab": {
+      "time": 1694968494267.5325,
+      "uuid": "44f8ceef-e6f2-4b80-87a8-f5bda33dc309"
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\prefab": {
+      "time": 1694536104371.3723,
+      "uuid": "44f8ceef-e6f2-4b80-87a8-f5bda33dc309"
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\scene": {
+      "time": 1694523329229.8926,
+      "uuid": "fc6cd875-dd91-4751-9f1e-37906b98319a"
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\src": {
+      "time": 1694536140674.0498,
+      "uuid": "52dc8595-bde7-4067-9127-0eab38b1bdad"
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\texture": {
+      "time": 1694567711297,
+      "uuid": "2aa7fd67-9d18-4e9d-aa8f-bc943538d000"
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\prefab.meta": {
+      "time": 1694570207892.5972
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\scene.meta": {
+      "time": 1694570207892.5972
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\src.meta": {
+      "time": 1694570207893.5942
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\texture.meta": {
+      "time": 1694570207893.5942
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\src\\Config.ts.meta": {
+      "time": 1694449589373.3298
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\src\\EventCenter.ts.meta": {
+      "time": 1694522109386.984
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\src\\EventDefine.ts.meta": {
+      "time": 1694449589374.3281
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\src\\GameMessageBase.ts.meta": {
+      "time": 1694449589375.3254
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\src\\GameStart.ts.meta": {
+      "time": 1694447765243.9072
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\src\\Square.ts.meta": {
+      "time": 1694536140676.0452
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\src\\WSClient.ts.meta": {
+      "time": 1694449589375.3254
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\prefab\\Square.prefab": {
+      "time": 1694537047074.7678,
+      "uuid": "9e9ca7e2-f868-48ad-a462-3bbea44b8261"
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\scene\\scene.scene": {
+      "time": 1694571661374.594,
+      "uuid": "9230170b-4559-4b0d-9aee-1fb3ff09ab2a"
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\prefab\\Square.prefab.meta": {
+      "time": 1694570210303.373
+    },
+    "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\scene\\scene.scene.meta": {
+      "time": 1694570210304.3706
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs.meta": {
+      "time": 1694711020087.435
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\event.meta": {
+      "time": 1694711020089.4292
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\network.meta": {
+      "time": 1694711020090.4263
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\prefabs.meta": {
+      "time": 1694711020091.4233
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\components.meta": {
+      "time": 1694711020094.4165
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\framework.meta": {
+      "time": 1694711020095.4124
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\GameService.ts.meta": {
+      "time": 1694711020102.394
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\systems.meta": {
+      "time": 1694711020096.4102
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\event\\EventCenter.ts.meta": {
+      "time": 1694711020103.391
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\event\\EventDefine.ts.meta": {
+      "time": 1694711020103.391
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\network\\GameMessage.ts.meta": {
+      "time": 1694711020106.383
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\network\\WSClient.ts.meta": {
+      "time": 1694711020107.3804
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\components\\NetworkComponent.ts.meta": {
+      "time": 1694711020109.376
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\components\\TransformComponent.ts.meta": {
+      "time": 1689352560154.365
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\framework\\Component.ts.meta": {
+      "time": 1694711020113.366
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\framework\\Entity.ts.meta": {
+      "time": 1694711020116.3574
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\framework\\System.ts.meta": {
+      "time": 1694711020116.3574
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\framework\\World.ts.meta": {
+      "time": 1694711020119.349
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\systems\\InputSystem.ts.meta": {
+      "time": 1694358796785.8875
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\systems\\MoveSystem.ts.meta": {
+      "time": 1689352560156.36
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\systems\\RenderSystem.ts.meta": {
+      "time": 1689611506337.694
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs": {
+      "time": 1695127919282.4084,
+      "uuid": "d5b1b6f0-a6ad-4ef4-8a04-1192b4675a21"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\event": {
+      "time": 1694711020076.4636,
+      "uuid": "48661a75-249b-4df7-ba9f-ebbc52b3afce"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\network": {
+      "time": 1694711020076.4636,
+      "uuid": "8d049d3c-6627-40b0-b979-bee08f795526"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\components": {
+      "time": 1695042715240.1787,
+      "uuid": "fb40e94e-d169-40b0-8b1a-6e5676e4ffa1"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\framework": {
+      "time": 1694877735236.5166,
+      "uuid": "dcbf6e23-0735-4855-a9ad-f8d2cb967c54"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\systems": {
+      "time": 1694846714764.6934,
+      "uuid": "83b0a6ee-582c-4789-8526-b38f2ea33427"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\GameService.ts": {
+      "time": 1695303073148.59,
+      "uuid": "335ea05c-4e95-4d18-b1fc-bb3c549f737f"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\event\\EventCenter.ts": {
+      "time": 1694571159044.3167,
+      "uuid": "8f9b0ae9-01c8-4cc6-9e53-a6f8995e99cc"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\event\\EventDefine.ts": {
+      "time": 1694526296957.9827,
+      "uuid": "9cb227a0-f3fa-45dd-965b-45097993c837"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\network\\GameMessage.ts": {
+      "time": 1694967768886.3562,
+      "uuid": "3ef8715e-d18a-4ef1-8474-eae92f8dc9ac"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\network\\WSClient.ts": {
+      "time": 1694707930408.1216,
+      "uuid": "d10d3ccf-a6b6-40a1-bb8d-ee71cc8adbc1"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\components\\NetworkComponent.ts": {
+      "time": 1695217389184.0637,
+      "uuid": "f718e71a-9b05-46bb-9535-10e2c68efbb4"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\components\\TransformComponent.ts": {
+      "time": 1695227551357.4287,
+      "uuid": "15f96e90-d137-43eb-a595-f44a59e58269"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\framework\\Component.ts": {
+      "time": 1695227529439.434,
+      "uuid": "dc761ebb-5199-446d-bf09-a4dd53539952"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\framework\\Entity.ts": {
+      "time": 1695651417412.7979,
+      "uuid": "50a9b087-abbf-4e8a-afd5-202346c65d80"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\framework\\System.ts": {
+      "time": 1694877572064.2537,
+      "uuid": "751fb8aa-4ce7-4aa4-aee8-4c2bbb3e2c93"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\framework\\World.ts": {
+      "time": 1695651417452.694,
+      "uuid": "e482f173-53df-4815-95ce-925c599cce5b"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\systems\\InputSystem.ts": {
+      "time": 1694877572064.2537,
+      "uuid": "8a616825-b723-4cb6-868e-9f9823d4c6a5"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\systems\\MoveSystem.ts": {
+      "time": 1695305610628.025,
+      "uuid": "9f2f4009-5493-4e2f-b461-f026ffcafb23"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\systems\\RenderSystem.ts": {
+      "time": 1694968366816.1753,
+      "uuid": "01b9a404-86a1-46cd-be22-c0eeadca1ec1"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\systems\\NetwrokReciveSystem.ts.meta": {
+      "time": 1694846714766.6912
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\systems\\NetwrokReciveSystem.ts": {
+      "time": 1695220428011.5984,
+      "uuid": "a1ab9888-9a3d-4b31-a84f-d4864394b8e5"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\GameStart.ts.meta": {
+      "time": 1694846953568.4326
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\GameStart.ts": {
+      "time": 1695304051658.9683,
+      "uuid": "d1901c1f-f781-44ca-99b2-9c91d8239f1e"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\framework\\ECSConfig.ts.meta": {
+      "time": 1694877735243.4993
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\framework\\ECSTool.ts.meta": {
+      "time": 1694877735244.4956
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\framework\\ECSConfig.ts": {
+      "time": 1695133688834.2126,
+      "uuid": "d3db71dc-7b48-4e72-9a4f-f27e55f7fc8e"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\framework\\ECSTool.ts": {
+      "time": 1695227870632.8496,
+      "uuid": "86778c54-9ba8-4e21-86af-1536be389464"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\GameTool.ts.meta": {
+      "time": 1694968295595.1338
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\GameType.ts.meta": {
+      "time": 1694968295625.7666
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\state-machine.meta": {
+      "time": 1694968295593.4583
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\state-machine\\GameActorMachine.ts.meta": {
+      "time": 1694968295625.7666
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\state-machine\\GameActorState.ts.meta": {
+      "time": 1694968295625.7666
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\state-machine": {
+      "time": 1694968295590.4656,
+      "uuid": "6e4b5a58-82c2-4005-9e2e-d2f59cfbd44c"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\GameTool.ts": {
+      "time": 1694968050682.006,
+      "uuid": "4d9d83a0-cf6a-46d1-ab7b-20fda304aa79"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\GameType.ts": {
+      "time": 1695305095816.239,
+      "uuid": "530ca178-6a63-4e3e-a247-24f8cb564a64"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\state-machine\\GameActorMachine.ts": {
+      "time": 1694968935008.8523,
+      "uuid": "07bc299f-0f71-4f04-80e6-e3ca4f6aa45e"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\state-machine\\GameActorState.ts": {
+      "time": 1695045236960.2488,
+      "uuid": "207763d2-7eb6-4a5a-8b25-04195756d62f"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\prefabs\\GameActor.ts.meta": {
+      "time": 1694968295625.7666
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\prefabs\\GameActor.ts": {
+      "time": 1695305116203.7854,
+      "uuid": "7a19e081-07ae-4de6-bb10-849799a916e3"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\prefab\\GameActor.prefab.meta": {
+      "time": 1694968494376.368
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\prefab\\GameActor.prefab": {
+      "time": 1695305490082.995,
+      "uuid": "9e9ca7e2-f868-48ad-a462-3bbea44b8261"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\auto-atlas.pac.meta": {
+      "time": 1694968687053.5583
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\auto-atlas.pac": {
+      "time": 1694968687050.561,
+      "uuid": "cbdfb51a-b0a6-4aca-8b75-28491e040609"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle.meta": {
+      "time": 1694968739186.0269
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle": {
+      "time": 1694968744188.3606,
+      "uuid": "b740367a-3528-4f68-8a4d-ccb0bb5ad564"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_001.png.meta": {
+      "time": 1694968660895.4387
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_001.png": {
+      "time": 1694283641067.873,
+      "uuid": "e0550b39-0281-481d-be26-2472553594fd"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_002.png.meta": {
+      "time": 1694968660904.4153
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_002.png": {
+      "time": 1694283640955.9456,
+      "uuid": "5fc1b525-22e3-4c9d-9f37-a643c1953579"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_003.png.meta": {
+      "time": 1694968660903.4185
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_003.png": {
+      "time": 1694283641042.6833,
+      "uuid": "9f6d6eed-6d58-4ed9-96b1-da26bbbaf8f4"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_000.png.meta": {
+      "time": 1694968660900.4263
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_000.png": {
+      "time": 1694283641127.0137,
+      "uuid": "3428f09d-e950-4c1f-9041-ba7641946d06"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_006.png.meta": {
+      "time": 1694968661127.8174
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_006.png": {
+      "time": 1694283640944.0122,
+      "uuid": "436c53ad-045d-4463-984d-a315c5113590"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_004.png.meta": {
+      "time": 1694968661044.043
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_004.png": {
+      "time": 1694283640721.8206,
+      "uuid": "d7dd2975-6c1c-40bc-b888-9e5453903cf8"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_005.png.meta": {
+      "time": 1694968661123.8286
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_005.png": {
+      "time": 1694283640825.543,
+      "uuid": "76557163-acfb-46a2-ace6-8c2f00edcee8"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_007.png.meta": {
+      "time": 1694968661130.8086
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_007.png": {
+      "time": 1694283640861.48,
+      "uuid": "5a247d7b-fd90-45d3-9d27-9435449e0521"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_011.png.meta": {
+      "time": 1694968661274.4263
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_011.png": {
+      "time": 1694283640849.5134,
+      "uuid": "04d261f0-b7e4-4691-9706-d44dfd3602cf"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_009.png.meta": {
+      "time": 1694968661221.5676
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_009.png": {
+      "time": 1694283641363.0828,
+      "uuid": "47514339-8a8c-4f67-a558-60c38b030c29"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_008.png.meta": {
+      "time": 1694968661219.5723
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_008.png": {
+      "time": 1694283641283.2444,
+      "uuid": "7745a9ed-7cf2-43bf-92a9-a31053ac4555"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_010.png.meta": {
+      "time": 1694968661275.4233
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\idle\\Idle_010.png": {
+      "time": 1694283640700.877,
+      "uuid": "ce60b389-b4fe-4ec5-826e-7083814ab6cf"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\components\\MoveCompoent.ts.meta": {
+      "time": 1695042715245.165
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk.meta": {
+      "time": 1695043248556.0957
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk": {
+      "time": 1695043345225.5974,
+      "uuid": "b0f3d959-81ba-4d37-ada9-cc282a92fa83"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_000.png.meta": {
+      "time": 1695043345337.3342
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_001.png.meta": {
+      "time": 1695043345420.8071
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_002.png.meta": {
+      "time": 1695043345516.5469
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_005.png.meta": {
+      "time": 1695043345596.3342
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_004.png.meta": {
+      "time": 1695043345704.045
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_003.png.meta": {
+      "time": 1695043345858.6318
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_006.png.meta": {
+      "time": 1695043345943.4077
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_007.png.meta": {
+      "time": 1695043346024.19
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_008.png.meta": {
+      "time": 1695043346103.9768
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_009.png.meta": {
+      "time": 1695043346187.9768
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_000.png": {
+      "time": 1694283641017.735,
+      "uuid": "fd85282b-f973-4ed5-baad-780eda065835"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_001.png": {
+      "time": 1694283640982.2993,
+      "uuid": "48c2ed30-e84f-4108-9696-292ba54fb0f9"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_002.png": {
+      "time": 1694283641092.0742,
+      "uuid": "2cf7f2ae-4ccf-44f9-940a-363338f5c6e3"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_005.png": {
+      "time": 1694283640920.3264,
+      "uuid": "de86eccf-927e-4759-af4f-369b81ff3c3b"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_004.png": {
+      "time": 1694283640884.4185,
+      "uuid": "14ed5b8c-0f02-481c-a6c9-0dfa7e1b4ee0"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_003.png": {
+      "time": 1694283641104.0747,
+      "uuid": "38a24ac8-7ef8-474f-ae9e-21f3b8f8cb4e"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_006.png": {
+      "time": 1694283640784.6526,
+      "uuid": "cbd262d7-d7bf-4947-950d-1e26135505f9"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_007.png": {
+      "time": 1694283640762.7114,
+      "uuid": "2e83de13-bf33-4994-a257-c560d60c59e6"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_008.png": {
+      "time": 1694283641200.4229,
+      "uuid": "adc0bd2d-03d5-4e9a-89c9-903fd320968d"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_009.png": {
+      "time": 1694283641267.2454,
+      "uuid": "c2a2a6f8-262d-4e65-a629-486b71c40416"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\Readme.md": {
+      "time": 1695054545061.3452,
+      "uuid": "c2c5bfe9-c6ab-4448-9aac-d2e292a78bf1"
+    },
+    "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\Readme.md.meta": {
+      "time": 1695127919495.1172
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\prefab": {
+      "time": 1702138849873.2966,
+      "uuid": "44f8ceef-e6f2-4b80-87a8-f5bda33dc309"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\scene": {
+      "time": 1697648480072.4575,
+      "uuid": "fc6cd875-dd91-4751-9f1e-37906b98319a"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src": {
+      "time": 1702139577809.569,
+      "uuid": "52dc8595-bde7-4067-9127-0eab38b1bdad"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture": {
+      "time": 1702140147953.4377,
+      "uuid": "2aa7fd67-9d18-4e9d-aa8f-bc943538d000"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs": {
+      "time": 1697645579707.614,
+      "uuid": "d5b1b6f0-a6ad-4ef4-8a04-1192b4675a21"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\event": {
+      "time": 1697645579716.614,
+      "uuid": "48661a75-249b-4df7-ba9f-ebbc52b3afce"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\network": {
+      "time": 1697645579720.6135,
+      "uuid": "8d049d3c-6627-40b0-b979-bee08f795526"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\state-machine": {
+      "time": 1697645579727.6138,
+      "uuid": "6e4b5a58-82c2-4005-9e2e-d2f59cfbd44c"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle": {
+      "time": 1697645579750.613,
+      "uuid": "b740367a-3528-4f68-8a4d-ccb0bb5ad564"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk": {
+      "time": 1697645579766.613,
+      "uuid": "b0f3d959-81ba-4d37-ada9-cc282a92fa83"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components": {
+      "time": 1703692559169.9268,
+      "uuid": "fb40e94e-d169-40b0-8b1a-6e5676e4ffa1"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\framework": {
+      "time": 1697645579706.6133,
+      "uuid": "dcbf6e23-0735-4855-a9ad-f8d2cb967c54"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\systems": {
+      "time": 1703692559209.927,
+      "uuid": "83b0a6ee-582c-4789-8526-b38f2ea33427"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\GameStart.ts": {
+      "time": 1702825580529.48,
+      "uuid": "d1901c1f-f781-44ca-99b2-9c91d8239f1e"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\GameTool.ts": {
+      "time": 1702827109307.2432,
+      "uuid": "4d9d83a0-cf6a-46d1-ab7b-20fda304aa79"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\GameType.ts": {
+      "time": 1702823326152.6797,
+      "uuid": "530ca178-6a63-4e3e-a247-24f8cb564a64"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\GameService.ts": {
+      "time": 1703692351224.2432,
+      "uuid": "335ea05c-4e95-4d18-b1fc-bb3c549f737f"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\event\\EventCenter.ts": {
+      "time": 1694571159044.3167,
+      "uuid": "8f9b0ae9-01c8-4cc6-9e53-a6f8995e99cc"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\event\\EventDefine.ts": {
+      "time": 1694526296957.9827,
+      "uuid": "9cb227a0-f3fa-45dd-965b-45097993c837"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\network\\GameMessage.ts": {
+      "time": 1701878004645.7024,
+      "uuid": "3ef8715e-d18a-4ef1-8474-eae92f8dc9ac"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\network\\WSClient.ts": {
+      "time": 1694707930408.1216,
+      "uuid": "d10d3ccf-a6b6-40a1-bb8d-ee71cc8adbc1"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\state-machine\\GameActorMachine.ts": {
+      "time": 1702139933701.7947,
+      "uuid": "07bc299f-0f71-4f04-80e6-e3ca4f6aa45e"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\state-machine\\GameActorState.ts": {
+      "time": 1702140025791.2468,
+      "uuid": "207763d2-7eb6-4a5a-8b25-04195756d62f"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components\\NetworkComponent.ts": {
+      "time": 1702825149936.8655,
+      "uuid": "f718e71a-9b05-46bb-9535-10e2c68efbb4"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components\\TransformComponent.ts": {
+      "time": 1702825147571.6357,
+      "uuid": "15f96e90-d137-43eb-a595-f44a59e58269"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\framework\\Component.ts": {
+      "time": 1695227529439.434,
+      "uuid": "dc761ebb-5199-446d-bf09-a4dd53539952"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\framework\\ECSConfig.ts": {
+      "time": 1703692288866.2527,
+      "uuid": "d3db71dc-7b48-4e72-9a4f-f27e55f7fc8e"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\framework\\ECSTool.ts": {
+      "time": 1695227870632.8496,
+      "uuid": "86778c54-9ba8-4e21-86af-1536be389464"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\framework\\Entity.ts": {
+      "time": 1703690682284.3635,
+      "uuid": "50a9b087-abbf-4e8a-afd5-202346c65d80"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\framework\\System.ts": {
+      "time": 1701879941344.6958,
+      "uuid": "751fb8aa-4ce7-4aa4-aee8-4c2bbb3e2c93"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\framework\\World.ts": {
+      "time": 1703693246131.316,
+      "uuid": "e482f173-53df-4815-95ce-925c599cce5b"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\systems\\InputSystem.ts": {
+      "time": 1702813883356.5022,
+      "uuid": "8a616825-b723-4cb6-868e-9f9823d4c6a5"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\systems\\MoveSystem.ts": {
+      "time": 1702827881789.1492,
+      "uuid": "9f2f4009-5493-4e2f-b461-f026ffcafb23"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\systems\\NetwrokReciveSystem.ts": {
+      "time": 1702813865523.2524,
+      "uuid": "a1ab9888-9a3d-4b31-a84f-d4864394b8e5"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\systems\\RenderSystem.ts": {
+      "time": 1702140166535.9727,
+      "uuid": "01b9a404-86a1-46cd-be22-c0eeadca1ec1"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\prefab.meta": {
+      "time": 1694609398485.628
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\scene.meta": {
+      "time": 1694609398485.628
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src.meta": {
+      "time": 1694609398485.628
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture.meta": {
+      "time": 1694609398486.6252
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs.meta": {
+      "time": 1694711020087.435
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\event.meta": {
+      "time": 1694711020089.4292
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\network.meta": {
+      "time": 1694711020090.4263
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\state-machine.meta": {
+      "time": 1694968295593.4583
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle.meta": {
+      "time": 1694968739186.0269
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk.meta": {
+      "time": 1695043248556.0957
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components.meta": {
+      "time": 1694711020094.4165
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\framework.meta": {
+      "time": 1694711020095.4124
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\systems.meta": {
+      "time": 1694711020096.4102
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\GameStart.ts.meta": {
+      "time": 1694846953568.4326
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\GameTool.ts.meta": {
+      "time": 1694968295595.1338
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\GameType.ts.meta": {
+      "time": 1694968295625.7666
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\GameService.ts.meta": {
+      "time": 1694711020102.394
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\event\\EventCenter.ts.meta": {
+      "time": 1694711020103.391
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\event\\EventDefine.ts.meta": {
+      "time": 1694711020103.391
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\network\\GameMessage.ts.meta": {
+      "time": 1694711020106.383
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\network\\WSClient.ts.meta": {
+      "time": 1694711020107.3804
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\state-machine\\GameActorMachine.ts.meta": {
+      "time": 1694968295625.7666
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\state-machine\\GameActorState.ts.meta": {
+      "time": 1694968295625.7666
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components\\NetworkComponent.ts.meta": {
+      "time": 1694711020109.376
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components\\TransformComponent.ts.meta": {
+      "time": 1689352560154.365
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\framework\\Component.ts.meta": {
+      "time": 1694711020113.366
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\framework\\ECSConfig.ts.meta": {
+      "time": 1694877735243.4993
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\framework\\ECSTool.ts.meta": {
+      "time": 1694877735244.4956
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\framework\\Entity.ts.meta": {
+      "time": 1694711020116.3574
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\framework\\System.ts.meta": {
+      "time": 1694711020116.3574
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\framework\\World.ts.meta": {
+      "time": 1694711020119.349
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\systems\\InputSystem.ts.meta": {
+      "time": 1694358796785.8875
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\systems\\MoveSystem.ts.meta": {
+      "time": 1689352560156.36
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\systems\\NetwrokReciveSystem.ts.meta": {
+      "time": 1694846714766.6912
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\systems\\RenderSystem.ts.meta": {
+      "time": 1689611506337.694
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\scene\\scene.scene": {
+      "time": 1702140425670.3003,
+      "uuid": "9230170b-4559-4b0d-9aee-1fb3ff09ab2a"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\auto-atlas.pac": {
+      "time": 1694968687050.561,
+      "uuid": "cbdfb51a-b0a6-4aca-8b75-28491e040609"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\Readme.md": {
+      "time": 1695054545061.3452,
+      "uuid": "c2c5bfe9-c6ab-4448-9aac-d2e292a78bf1"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_000.png": {
+      "time": 1694283641127.0137,
+      "uuid": "3428f09d-e950-4c1f-9041-ba7641946d06"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_001.png": {
+      "time": 1694283641067.873,
+      "uuid": "e0550b39-0281-481d-be26-2472553594fd"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_002.png": {
+      "time": 1694283640955.9456,
+      "uuid": "5fc1b525-22e3-4c9d-9f37-a643c1953579"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_003.png": {
+      "time": 1694283641042.6833,
+      "uuid": "9f6d6eed-6d58-4ed9-96b1-da26bbbaf8f4"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_004.png": {
+      "time": 1694283640721.8206,
+      "uuid": "d7dd2975-6c1c-40bc-b888-9e5453903cf8"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_005.png": {
+      "time": 1694283640825.543,
+      "uuid": "76557163-acfb-46a2-ace6-8c2f00edcee8"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_006.png": {
+      "time": 1694283640944.0122,
+      "uuid": "436c53ad-045d-4463-984d-a315c5113590"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_007.png": {
+      "time": 1694283640861.48,
+      "uuid": "5a247d7b-fd90-45d3-9d27-9435449e0521"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_008.png": {
+      "time": 1694283641283.2444,
+      "uuid": "7745a9ed-7cf2-43bf-92a9-a31053ac4555"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_009.png": {
+      "time": 1694283641363.0828,
+      "uuid": "47514339-8a8c-4f67-a558-60c38b030c29"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_010.png": {
+      "time": 1694283640700.877,
+      "uuid": "ce60b389-b4fe-4ec5-826e-7083814ab6cf"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_011.png": {
+      "time": 1694283640849.5134,
+      "uuid": "04d261f0-b7e4-4691-9706-d44dfd3602cf"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_000.png": {
+      "time": 1694283641017.735,
+      "uuid": "fd85282b-f973-4ed5-baad-780eda065835"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_001.png": {
+      "time": 1694283640982.2993,
+      "uuid": "48c2ed30-e84f-4108-9696-292ba54fb0f9"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_002.png": {
+      "time": 1694283641092.0742,
+      "uuid": "2cf7f2ae-4ccf-44f9-940a-363338f5c6e3"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_003.png": {
+      "time": 1694283641104.0747,
+      "uuid": "38a24ac8-7ef8-474f-ae9e-21f3b8f8cb4e"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_004.png": {
+      "time": 1694283640884.4185,
+      "uuid": "14ed5b8c-0f02-481c-a6c9-0dfa7e1b4ee0"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_005.png": {
+      "time": 1694283640920.3264,
+      "uuid": "de86eccf-927e-4759-af4f-369b81ff3c3b"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_006.png": {
+      "time": 1694283640784.6526,
+      "uuid": "cbd262d7-d7bf-4947-950d-1e26135505f9"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_007.png": {
+      "time": 1694283640762.7114,
+      "uuid": "2e83de13-bf33-4994-a257-c560d60c59e6"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_008.png": {
+      "time": 1694283641200.4229,
+      "uuid": "adc0bd2d-03d5-4e9a-89c9-903fd320968d"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_009.png": {
+      "time": 1694283641267.2454,
+      "uuid": "c2a2a6f8-262d-4e65-a629-486b71c40416"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\auto-atlas.pac.meta": {
+      "time": 1694968687053.5583
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\Readme.md.meta": {
+      "time": 1695127919495.1172
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\scene\\scene.scene.meta": {
+      "time": 1694609401310.7603
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_002.png.meta": {
+      "time": 1694968660904.4153
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_003.png.meta": {
+      "time": 1694968660903.4185
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_001.png.meta": {
+      "time": 1694968660895.4387
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_000.png.meta": {
+      "time": 1694968660900.4263
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_004.png.meta": {
+      "time": 1694968661044.043
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_006.png.meta": {
+      "time": 1694968661127.8174
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_007.png.meta": {
+      "time": 1694968661130.8086
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_005.png.meta": {
+      "time": 1694968661123.8286
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_008.png.meta": {
+      "time": 1694968661219.5723
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_009.png.meta": {
+      "time": 1694968661221.5676
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_011.png.meta": {
+      "time": 1694968661274.4263
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\idle\\Idle_010.png.meta": {
+      "time": 1694968661275.4233
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_000.png.meta": {
+      "time": 1695043345337.3342
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_001.png.meta": {
+      "time": 1695043345420.8071
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_002.png.meta": {
+      "time": 1695043345516.5469
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_003.png.meta": {
+      "time": 1695043345858.6318
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_004.png.meta": {
+      "time": 1695043345704.045
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_006.png.meta": {
+      "time": 1695043345943.4077
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_005.png.meta": {
+      "time": 1695043345596.3342
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_007.png.meta": {
+      "time": 1695043346024.19
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_008.png.meta": {
+      "time": 1695043346103.9768
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\walk\\RunWithGun_009.png.meta": {
+      "time": 1695043346187.9768
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components\\FireComponent.ts.meta": {
+      "time": 1701877472304.9563
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components\\MoveComponent.ts.meta": {
+      "time": 1701877472306.2153
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components\\FireComponent.ts": {
+      "time": 1702825153831.4087,
+      "uuid": "f5b36cdd-195c-41d9-88f2-f851ae24f1fa"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components\\MoveComponent.ts": {
+      "time": 1702825151793.406,
+      "uuid": "86b2807a-3dc6-4411-bab0-8ba9229f8d91"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ui.meta": {
+      "time": 1701880219970.538
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ui\\GameBullet.ts.meta": {
+      "time": 1701880219971.54
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\systems\\FireSystem.ts.meta": {
+      "time": 1701880219972.5376
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ui": {
+      "time": 1702139573635.1228,
+      "uuid": "db01482e-7615-46f8-b080-504753cb04cf"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ui\\GameBullet.ts": {
+      "time": 1703691756362.9753,
+      "uuid": "f5006e2d-3bda-4bb9-a765-838d28c4f349"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\systems\\FireSystem.ts": {
+      "time": 1703692032844.6262,
+      "uuid": "c62fc9fc-64d1-4096-8966-a65e1a603c32"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ui\\GameUIBase.ts": {
+      "time": 1703692447774.6443,
+      "uuid": "1e43ee01-8d58-465e-adf7-32a426d91e54"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ui\\GameUIBase.ts.meta": {
+      "time": 1702138721070.4204
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\prefab\\Bullet.prefab.meta": {
+      "time": 1702138810653.7969
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\prefab\\Bullet.prefab": {
+      "time": 1702815142139.7039,
+      "uuid": "63c1b68c-2692-40d5-b9c8-f231139e7379"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\prefab\\Actor.prefab.meta": {
+      "time": 1702138849877.2961
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\prefab\\Actor.prefab": {
+      "time": 1702140356772.2805,
+      "uuid": "9e9ca7e2-f868-48ad-a462-3bbea44b8261"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ui\\GameActor.ts.meta": {
+      "time": 1694968295625.7666
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ui\\GameActor.ts": {
+      "time": 1703691760434.7307,
+      "uuid": "7a19e081-07ae-4de6-bb10-849799a916e3"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\fire.meta": {
+      "time": 1702140147959.436
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\fire": {
+      "time": 1702140152770.718,
+      "uuid": "7bd2623c-e14e-42d3-acc0-339b23f5efc1"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\fire\\Shot_000.png.meta": {
+      "time": 1702140152842.7175
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\fire\\Shot_001.png.meta": {
+      "time": 1702140152905.7178
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\fire\\Shot_002.png.meta": {
+      "time": 1702140152999.7178
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\fire\\Shot_004.png.meta": {
+      "time": 1702140153048.7183
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\fire\\Shot_003.png.meta": {
+      "time": 1702140153096.7249
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\fire\\Shot_000.png": {
+      "time": 1559641936000,
+      "uuid": "fc1f7676-6d15-453f-a37a-1b131106222d"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\fire\\Shot_001.png": {
+      "time": 1559641936000,
+      "uuid": "d262788b-0f6e-4dc7-b6dc-f476405979c8"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\fire\\Shot_002.png": {
+      "time": 1559641936000,
+      "uuid": "cbee24d6-18b0-4007-9e2a-60dc960e79eb"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\fire\\Shot_004.png": {
+      "time": 1559641936000,
+      "uuid": "8778c299-9a53-415b-b185-35f240ac023e"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\texture\\fire\\Shot_003.png": {
+      "time": 1559641936000,
+      "uuid": "c31e25d9-1fef-4541-8202-32557c7449d8"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components\\CollisionComponent.ts.meta": {
+      "time": 1702822600174.3435
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\systems\\CollisionDetectionSystem.ts.meta": {
+      "time": 1702822600174.3435
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components\\CollisionComponent.ts": {
+      "time": 1702820430916.6765,
+      "uuid": "a874e90f-e8e6-4646-be61-d796936843d5"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\systems\\CollisionDetectionSystem.ts": {
+      "time": 1702823476511.7964,
+      "uuid": "a1dfda90-123f-435d-9203-5bc41be88688"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components\\ActorStatusComponent.ts.meta": {
+      "time": 1702826838709.8042
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components\\BulletComponent.ts.meta": {
+      "time": 1702826838709.8042
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components\\CampComponent.ts.meta": {
+      "time": 1702826838710.8047
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\systems\\HitSystem.ts.meta": {
+      "time": 1702826838710.8047
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components\\ActorStatusComponent.ts": {
+      "time": 1702826768223.0933,
+      "uuid": "b7858731-ab37-40d9-8a7f-21a7ebc864fc"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components\\BulletComponent.ts": {
+      "time": 1702825275721.8608,
+      "uuid": "ebd34b35-376d-46e4-895c-806a2f1968f4"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components\\CampComponent.ts": {
+      "time": 1702825207398.1616,
+      "uuid": "9c533d77-ec79-49cf-93ce-947dc14277dc"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\systems\\HitSystem.ts": {
+      "time": 1702827750865.9565,
+      "uuid": "714eb65e-82f2-407c-a23a-be7f88779d9f"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components\\AutoDestroyComponent.ts": {
+      "time": 1703691986597.7195,
+      "uuid": "ee0699ad-3dde-4f3f-a410-92f84a34093b"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\systems\\AutoDestroySystem.ts": {
+      "time": 1703692342628.6672,
+      "uuid": "2712216b-1899-4c5f-a485-494371524b9f"
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\components\\AutoDestroyComponent.ts.meta": {
+      "time": 1703692559239.9275
+    },
+    "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\ecs\\systems\\AutoDestroySystem.ts.meta": {
+      "time": 1703692559243.9272
+    }
+  },
+  "missing": {
+    "f51c4ed2-f7cb-41dd-85f4-380ebe6c82ea": {
+      "path": "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\src\\GameMessageBase.ts",
+      "time": 1694536867906.8657,
+      "removeTime": 1694699329166
+    },
+    "10a47933-d271-4efc-84cf-3a520ce1cf18": {
+      "path": "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\src\\Config.ts",
+      "time": 1694536848721.587,
+      "removeTime": 1694711057632
+    },
+    "71d20797-f4b2-41af-9152-1d08cd06b260": {
+      "path": "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\src\\EventCenter.ts",
+      "time": 1694571159044.3167,
+      "removeTime": 1694711057633
+    },
+    "8191d2ff-59b7-471e-9322-7c53b67ba0cf": {
+      "path": "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\src\\EventDefine.ts",
+      "time": 1694526296957.9827,
+      "removeTime": 1694711057633
+    },
+    "531699f8-6034-4873-b2ad-a17e3cb9ac97": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\GameMessage.ts",
+      "time": 1694619333232.9048,
+      "removeTime": 1694711020068
+    },
+    "d53e7e75-83f1-40a8-bd16-27a09ca8ffb0": {
+      "path": "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\src\\Square.ts",
+      "time": 1694571868106.4812,
+      "removeTime": 1694711057633
+    },
+    "3e0ec939-c79f-4a20-99bd-d9138c8ca1b0": {
+      "path": "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\src\\WSClient.ts",
+      "time": 1694527016310.6975,
+      "removeTime": 1694711057633
+    },
+    "972b8ca5-1156-4e10-ba25-ec83ac915358": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\components\\SingletonComponent.ts",
+      "time": 1694711255528.479,
+      "removeTime": 1694846714674
+    },
+    "a8a18680-307b-488d-bab6-3074c415100d": {
+      "path": "D:\\liao_file\\CococProject\\ECS_Demo\\assets\\src\\GameStart.ts",
+      "time": 1694571807358.8103,
+      "removeTime": 1694847089504
+    },
+    "ebd84036-6b25-42a8-a581-2f8e58f7f7ba": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\prefabs\\Actor.ts",
+      "time": 1694878491313.8386,
+      "removeTime": 1694968295487
+    },
+    "9e9ca7e2-f868-48ad-a462-3bbea44b8261": {
+      "path": "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\prefab\\GameActor.prefab",
+      "time": 1695305490082.995,
+      "removeTime": 1702138849874
+    },
+    "aa1669d2-9cb8-4bc6-ae83-11839a53bf59": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\framework\\Config.ts",
+      "time": 1694710931120.997,
+      "removeTime": 1694877735234
+    },
+    "0a405b92-33b0-43c5-bcfc-0bc6da4729d4": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\framework\\Tool.ts",
+      "time": 1694711209189.9512,
+      "removeTime": 1694877735234
+    },
+    "1542f5d0-d489-436b-92db-2aee0f337b24": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\Tool.ts",
+      "time": 1694711162771.7249,
+      "removeTime": 1694968295487
+    },
+    "6802078d-1580-466c-9b47-a3acf9ebc610": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\Type.ts",
+      "time": 1694878313114.3276,
+      "removeTime": 1694968295487
+    },
+    "7a19e081-07ae-4de6-bb10-849799a916e3": {
+      "path": "F:\\ACode\\CocosCode\\ECS_Demo\\assets\\src\\prefabs\\GameActor.ts",
+      "time": 1702138469514.7607,
+      "removeTime": 1702139573636
+    },
+    "e0550b39-0281-481d-be26-2472553594fd": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\Idle_001.png",
+      "time": 1694283641067.873,
+      "removeTime": 1694968743754
+    },
+    "5fc1b525-22e3-4c9d-9f37-a643c1953579": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\Idle_002.png",
+      "time": 1694283640955.9456,
+      "removeTime": 1694968743862
+    },
+    "9f6d6eed-6d58-4ed9-96b1-da26bbbaf8f4": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\Idle_003.png",
+      "time": 1694283641042.6833,
+      "removeTime": 1694968744079
+    },
+    "3428f09d-e950-4c1f-9041-ba7641946d06": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\Idle_000.png",
+      "time": 1694283641127.0137,
+      "removeTime": 1694968744187
+    },
+    "436c53ad-045d-4463-984d-a315c5113590": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\Idle_006.png",
+      "time": 1694283640944.0122,
+      "removeTime": 1694968744189
+    },
+    "d7dd2975-6c1c-40bc-b888-9e5453903cf8": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\Idle_004.png",
+      "time": 1694283640721.8206,
+      "removeTime": 1694968744190
+    },
+    "76557163-acfb-46a2-ace6-8c2f00edcee8": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\Idle_005.png",
+      "time": 1694283640825.543,
+      "removeTime": 1694968744191
+    },
+    "5a247d7b-fd90-45d3-9d27-9435449e0521": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\Idle_007.png",
+      "time": 1694283640861.48,
+      "removeTime": 1694968744192
+    },
+    "04d261f0-b7e4-4691-9706-d44dfd3602cf": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\Idle_011.png",
+      "time": 1694283640849.5134,
+      "removeTime": 1694968744192
+    },
+    "47514339-8a8c-4f67-a558-60c38b030c29": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\Idle_009.png",
+      "time": 1694283641363.0828,
+      "removeTime": 1694968744193
+    },
+    "7745a9ed-7cf2-43bf-92a9-a31053ac4555": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\Idle_008.png",
+      "time": 1694283641283.2444,
+      "removeTime": 1694968744194
+    },
+    "ce60b389-b4fe-4ec5-826e-7083814ab6cf": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\texture\\Idle_010.png",
+      "time": 1694283640700.877,
+      "removeTime": 1694968744195
+    },
+    "a76d5ea7-fd62-4183-8af1-23b8bd041d86": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\ecs\\components\\MoveCompoent.ts",
+      "time": 1695309432620.9924,
+      "removeTime": 1702138722710
+    },
+    "97c31cf0-3e27-4ff8-a3ea-24af99def77f": {
+      "path": "D:\\File\\Cocos\\ECS_Demo\\assets\\src\\prefabs",
+      "time": 1694968326362.952,
+      "removeTime": 1702808735127
+    }
+  }
+}

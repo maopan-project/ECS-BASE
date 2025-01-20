@@ -1,0 +1,1 @@
+{"version":3,"sources":["file:///D:/File/Cocos/ECS_Demo/assets/src/EventDefine.ts"],"names":["EventDefine","EVENT_NETWORK_CONNECT"],"mappings":";;;iBAAaA,W;;;;;;;;;;;;;6BAAAA,W,GAAN,MAAMA,WAAN,CAAkB,E;;AAAZA,MAAAA,W,CACFC,qB,GAAwB,uB","sourcesContent":["export class EventDefine {\r\n    static EVENT_NETWORK_CONNECT = \"EVENT_NETWORK_CONNECT\";\r\n}\r\n"]}
